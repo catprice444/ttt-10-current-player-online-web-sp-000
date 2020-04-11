@@ -13,5 +13,4 @@ def current_player(board)
     puts "O"
   else turn_count(board).odd?
     puts "X"
-  end
 end
